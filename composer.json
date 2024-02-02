@@ -1,0 +1,13 @@
+{
+    "name": "maico/pdo-mostrardatos",
+    "description": "pryecto de conexion de php con base de datos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maicol Elian",
+            "email": "elianmuepaz29@gmail.com"
+        }
+    ],
+    "require": {}
+}
